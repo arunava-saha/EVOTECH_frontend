@@ -25,7 +25,7 @@ Before you begin, ensure you have the following dependencies installed:
    yarn install
    ```
 
-   4. Start it with
+4. Start it with
 
    ```bash
    npm start
