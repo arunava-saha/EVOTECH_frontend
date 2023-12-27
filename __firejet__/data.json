@@ -1,0 +1,18 @@
+{
+  "pages": {
+    "main": {
+      "componentData": [
+        {
+          "type": "EXISTING_COMPONENT",
+          "x": 10,
+          "y": 10,
+          "width": 1807,
+          "height": 1805,
+          "filePath": "/src/components/HomePage.tsx",
+          "exportName": "default"
+        }
+      ]
+    }
+  },
+  "version": { "major": 0, "minor": 0, "patch": 0 }
+}
